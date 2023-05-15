@@ -5,11 +5,11 @@ This guide will provide you with instructions on how to use the Shiny app and se
 ```r
 library(devtools)
 
-install_github("wajahat16079/ZildePack")
+install_github("landimc8/tspHeuris")
 ```
 ## To load the Package
 ```r
-library(Zilde)
+library(tspHeuris)
 ```
 ## To run the app
 ```r
