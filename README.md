@@ -27,7 +27,7 @@ The Shiny app will progressively load and display a map, itinerary, and statisti
 
 ●	Make any necessary selections or inputs within the app to customize your experience.
 
-Alternatively, you can access the Shiny app directly using the following link:  [Shiny App Demo]([[https://viz-it-dashboards.shinyapps.io/zildefiverr/](https://tsp-heuristics.shinyapps.io/tsp1/)](https://tsp-heuristics.shinyapps.io/tsp1/))
+Alternatively, you can access the Shiny app directly using the following link:  [Shiny App Demo]([https://tsp-heuristics.shinyapps.io/tsp1/])
 
 Please note that this guide assumes basic familiarity with R and RStudio. If you encounter any issues or have further questions, refer to the documentation for the Shiny package or consult the developer of the Shiny app for assistance.
 Enjoy using the Shiny app!
