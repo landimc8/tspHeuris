@@ -1,4 +1,4 @@
-# Shiny App User Guide
+# TSP Shiny App User Guide
 This guide will provide you with instructions on how to use the Shiny app and set up the necessary environment. Please follow the steps below to get started.
 
 ## To install the package
